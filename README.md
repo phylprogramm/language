@@ -1,4 +1,4 @@
-# Linguistic Typology Correlation Analysis
+# Language paper code
 
 Scripts for analyzing correlations between typological features in WALS and Grambank.
 
