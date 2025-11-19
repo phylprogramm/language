@@ -13,7 +13,7 @@ Scripts for analyzing correlations between typological features in WALS and Gram
 - `sv_vs_correlation_anti_dryer_wals.ipynb` - SV/VS correlations (WALS)
 - `sv_vs_correlation_anti-dryer_grambank.ipynb` - SV/VS correlations (Grambank)
 - `independence_sv_pssr_adj.ipynb` - Independence tests (SV/possessor/adjective)
-- `languages.ipynb` - SV languages with possessor/adjective alignment vs mixed order, including exports
+- `sv_pssr_adj_align.ipynb` - SV languages with possessor/adjective alignment and list of counterexample languages
 
 ## Data Format
 
